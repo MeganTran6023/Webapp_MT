@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Practice integrating SQL Server + CRUD Operations with ASP.NET environment to create a database of violin students for a theoretical violin studio. I applied CRUD to demonstrate basic operations in a student sign in portal (add, delete, edit), which is applicable to many real-life situations.
+Practice integrating SQL Server + CRUD Operations with ASP.NET to create a database of violin students for a theoretical violin studio. I applied CRUD to demonstrate basic operations in a student sign in portal (add, delete, edit), which is applicable to many real-life situations (.NET Core).
 
 ## How To Run
 
