@@ -11,7 +11,7 @@ Practice integrating SQL Server + CRUD Operations with ASP.NET environment to cr
 These steps are also in the youtube link below
 
 1) Download Visual Studio 2022 and start a new ASP.NET Core Web App project
-2) add files to a folder called "Pages"
+2) add files "index.cshtml" , "index.cshtml.cs" and folder "ViolinStudents" to a folder called "Pages"
 3) Run program
 
 ## Future Improvements
